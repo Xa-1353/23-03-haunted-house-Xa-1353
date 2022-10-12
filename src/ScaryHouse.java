@@ -20,11 +20,61 @@ public class ScaryHouse extends Canvas
       window.setColor(Color.BLACK);
       window.drawString("Happy Halloween", 100, 50);
 
-      //columns and outlines
-      window.setColor(Color.MAGENTA);
-      window.fillRect(100, 250, 100, 100 );
+      //columns
+      window.setColor(Color.GRAY);
+      window.fillRect(400, 200, 310, 200 );
+
+      window.setColor(Color.GRAY);
+      window.fillRect(450, 150, 210, 150 );
+
+      window.setColor(Color.GRAY);
+      window.fillRect(800, 50, 50, 350 );
+
+      //roof
+      window.setColor(Color.BLACK);
+      window.fillRect(375, 200, 25, 25 );
 
       window.setColor(Color.BLACK);
+      window.fillRect(400, 200, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(400, 175, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(425, 150, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(425, 175, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(450, 125, 210, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(450, 150, 210, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(660, 175, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(660, 150, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(660, 150, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(685, 175, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(705, 200, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(685, 200, 25, 25 );
+
+
+
+
+
+      /*window.setColor(Color.BLACK);
       window.drawRect(100,250,100,100);
 
       window.setColor(Color.MAGENTA);
@@ -48,7 +98,7 @@ public class ScaryHouse extends Canvas
       window.fillRect(200, 160, 100, 50 );
 
       window.setColor(Color.BLACK);
-      window.fillRect(300, 230, 100, 30 );
+      window.fillRect(300, 230, 100, 30 );*/
 
 
 
