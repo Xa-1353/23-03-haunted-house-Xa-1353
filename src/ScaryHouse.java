@@ -47,10 +47,31 @@ public class ScaryHouse extends Canvas
       window.fillRect(425, 175, 25, 25 );
 
       window.setColor(Color.BLACK);
+      window.fillRect(425, 175, 250, 25 );
+
+      window.setColor(Color.BLACK);
       window.fillRect(450, 125, 210, 25 );
 
       window.setColor(Color.BLACK);
       window.fillRect(450, 150, 210, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(450, 125, 200, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(470, 100, 175, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(488, 80, 140, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(500, 60, 115, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(520, 40, 80, 25 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(540, 20, 40, 25 );
 
       window.setColor(Color.BLACK);
       window.fillRect(660, 175, 25, 25 );
@@ -71,34 +92,40 @@ public class ScaryHouse extends Canvas
       window.fillRect(685, 200, 25, 25 );
 
 
-
-
-
-      /*window.setColor(Color.BLACK);
-      window.drawRect(100,250,100,100);
-
-      window.setColor(Color.MAGENTA);
-      window.fillRect(200, 170, 100, 180 );
+      //windows
+      window.setColor(Color.BLACK);
+      window.drawRect(450, 250, 50, 50 );
 
       window.setColor(Color.BLACK);
-      window.drawRect(200,200,100,150);
-
-      window.setColor(Color.MAGENTA);
-      window.fillRect(300, 250, 100, 100 );
+      window.drawRect(475, 250, 25, 25 );
 
       window.setColor(Color.BLACK);
-      window.drawRect(300,250,100,100);
-
-
-      //roof
-      window.setColor(Color.BLACK);
-      window.fillRect(100, 230, 100, 30 );
+      window.drawRect(450, 250, 25, 25 );
 
       window.setColor(Color.BLACK);
-      window.fillRect(200, 160, 100, 50 );
+      window.drawRect(450, 275, 25, 25 );
 
       window.setColor(Color.BLACK);
-      window.fillRect(300, 230, 100, 30 );*/
+      window.drawRect(475, 275, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.drawRect(600, 250, 50, 50 );
+
+      window.setColor(Color.BLACK);
+      window.drawRect(600, 250, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.drawRect(625, 250, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.drawRect(600, 275, 25, 25 );
+
+      window.setColor(Color.BLACK);
+      window.drawRect(600, 275, 25, 25 );
+
+      //door
+      window.setColor(Color.BLACK);
+      window.fillRect(500, 350, 100, 50 );
 
 
 
