@@ -27,8 +27,17 @@ public class ScaryHouse extends Canvas
       window.setColor(Color.GRAY);
       window.fillRect(450, 150, 210, 150 );
 
+      //lamp post
       window.setColor(Color.GRAY);
-      window.fillRect(800, 50, 50, 350 );
+      window.fillRect(800, 50, 25, 350 );
+
+      window.setColor(Color.orange);
+      window.fillRect(770, 50, 45, 50 );
+
+      window.setColor(Color.GRAY);
+      window.fillRect(770, 50, 50, 10 );
+
+
 
       //roof
       window.setColor(Color.BLACK);
@@ -126,6 +135,24 @@ public class ScaryHouse extends Canvas
       //door
       window.setColor(Color.BLACK);
       window.fillRect(500, 350, 100, 50 );
+
+      window.setColor(Color.GRAY);
+      window.drawRect(500, 349, 50, 50 );
+
+      //pumpkin
+
+      window.setColor(Color.ORANGE);
+      window.fillRect(460, 375, 30, 30 );
+
+      window.setColor(Color.GREEN);
+      window.fillRect(475, 365, 5, 10 );
+
+      window.setColor(Color.ORANGE);
+      window.fillRect(605, 375, 30, 30 );
+
+      window.setColor(Color.GREEN);
+      window.fillRect(620, 365, 5, 10 );
+
 
 
 
