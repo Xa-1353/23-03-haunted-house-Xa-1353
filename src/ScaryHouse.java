@@ -2,9 +2,7 @@
 //www.apluscompsci.com
 //Name -
 
-import java.awt.Graphics;
-import java.awt.Color;
-import java.awt.Canvas;
+import java.awt.*;
 
 public class ScaryHouse extends Canvas
 {
@@ -152,6 +150,35 @@ public class ScaryHouse extends Canvas
 
       window.setColor(Color.GREEN);
       window.fillRect(620, 365, 5, 10 );
+
+      //cat
+      window.setColor(Color.BLACK);
+      window.fillRect(350, 380, 15, 15 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(345, 390, 23, 20 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(350, 375, 5, 5 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(360, 375, 5, 5 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(368, 405, 5, 5 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(370, 405, 5, 5 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(373, 403, 5, 5 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(373, 400, 5, 5 );
+
+      window.setColor(Color.BLACK);
+      window.fillRect(370, 398, 5, 5 );
+
 
 
 
